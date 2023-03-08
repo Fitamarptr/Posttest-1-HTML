@@ -1,0 +1,36 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+section .kiri{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+section .kiri1{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+.kiri {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Georgia;
+}
+h2 {
+    margin-bottom: 20px;
+    width: 100%;
+    line-height: 50px;
+    color: blueviolet;
+}
+section .kanan{
+    margin: auto;
+    display: flex;
+    margin-bottom: 50px;
+}
+.kanan {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Georgia;
+}
